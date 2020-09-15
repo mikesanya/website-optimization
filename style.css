@@ -651,7 +651,10 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #eee!important;
+    color: #575757!important;
+}
+.footer-link ul li a {
+    color: #eee !important;
 }
 
 .container {
